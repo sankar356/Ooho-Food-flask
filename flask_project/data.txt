@@ -1,0 +1,18 @@
+admin data
+    "Email":"pandi@gmail.com",
+    "password":"pandi@123"
+    
+    "Email":"siva@gmail.com",
+    "password":"SivA@1095",
+
+
+user data
+    "Email":"viji@gmail.com",
+    "password":"viji@123"
+        "Email":"anu@gmail.com",
+    "password":"anusha@123",
+
+staff
+
+    "Email":"vasu@gmail.com",
+    "password":"vasu@123"
